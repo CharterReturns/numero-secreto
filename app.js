@@ -1,4 +1,4 @@
-// teste de atualização bora outrp testeeeeeeee AAAAAAAAAAAAAAAAAAAA
+// teste de atualização 
 let listaDeNumerosSorteados = [];
 let numeroSecreto = gerarNumeroAleatorio();
 console.log(numeroSecreto);
