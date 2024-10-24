@@ -1,24 +1,4 @@
 // teste de atualização  denovooooooo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//Mudança para voltar no tempo
 let listaDeNumerosSorteados = [];
 let numeroSecreto = gerarNumeroAleatorio();
 console.log(numeroSecreto);
