@@ -1,4 +1,4 @@
-// teste de atualização  denovooooooo
+// teste de atualização  den
 let listaDeNumerosSorteados = [];
 let numeroSecreto = gerarNumeroAleatorio();
 console.log(numeroSecreto);
