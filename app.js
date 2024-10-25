@@ -1,4 +1,4 @@
-// Principal
+// Principal 2
 let listaDeNumerosSorteados = [];
 let numeroSecreto = gerarNumeroAleatorio();
 console.log(numeroSecreto);
